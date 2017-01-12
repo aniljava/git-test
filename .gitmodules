@@ -1,0 +1,3 @@
+[submodule "git-test-subproject"]
+	path = git-test-subproject
+	url = git@github.com:aniljava/git-test-subproject.git
